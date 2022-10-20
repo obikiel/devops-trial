@@ -1,0 +1,22 @@
+*{
+    margin:auto;
+}
+
+h1{
+    font-size:4em;
+    color:azure;
+    font-family:Courier, monospace;
+    margin:200px;
+}
+h2{
+    font-size:2em;
+    color:azure;
+    font-family: Courier, monospace;
+    margin-top:-200px;
+    margin-left:40px;
+
+}
+
+body{
+    background-color: black;
+}
